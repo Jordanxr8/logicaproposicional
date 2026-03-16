@@ -1,0 +1,49 @@
+{
+    // Use IntelliSense para saber los atributos posibles.
+    // Mantenga el puntero para ver las descripciones de los existentes atributos.
+    // Para más información, visite: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "MediaNumeros",
+            "request": "launch",
+            "mainClass": "MediaNumeros",
+            "projectName": "logicaproposicional_346b4ded"
+        },
+        {
+            "type": "java",
+            "name": "SumaNumeros",
+            "request": "launch",
+            "mainClass": "SumaNumeros",
+            "projectName": "logicaproposicional_346b4ded"
+        },
+        {
+            "type": "java",
+            "name": "NumerosPares",
+            "request": "launch",
+            "mainClass": "NumerosPares",
+            "projectName": "logicaproposicional_346b4ded"
+        },
+        {
+            "type": "java",
+            "name": "Suma",
+            "request": "launch",
+            "mainClass": "Suma",
+            "projectName": "logicaproposicional_346b4ded"
+        },
+        {
+            "type": "java",
+            "name": "suma",
+            "request": "launch",
+            "mainClass": "suma",
+            "projectName": "logicaproposicional_346b4ded"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        }
+    ]
+}
