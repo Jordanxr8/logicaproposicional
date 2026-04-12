@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Fase3Menu",
+            "request": "launch",
+            "mainClass": "ProyectoMIO.Fase3Menu",
+            "projectName": "logicaproposicional_346b4ded"
+        },
+        {
+            "type": "java",
+            "name": "Fase1Tarifa",
+            "request": "launch",
+            "mainClass": "ProyectoMIO.Fase1Tarifa",
+            "projectName": "logicaproposicional_346b4ded"
+        },
+        {
+            "type": "java",
+            "name": "DetectorInteligente",
+            "request": "launch",
+            "mainClass": "DetectorInteligente",
+            "projectName": "logicaproposicional_346b4ded"
+        },
+        {
+            "type": "java",
             "name": "MediaNumeros",
             "request": "launch",
             "mainClass": "MediaNumeros",
